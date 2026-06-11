@@ -1,0 +1,6 @@
+{
+  "name": "Movie Night Picker",
+  "description": "Elegant dark-themed application to manage movies and randomly pick your next movie night title, featuring a Family Safe mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
